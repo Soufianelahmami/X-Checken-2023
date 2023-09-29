@@ -47,9 +47,9 @@
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdzEX6P.webp",
+	 "title": "X Checken 2023",
+	 "text": "In 2023, the poultry industry undergoes a technological revolution with the introduction of the Smart Coop System. This innovative system utilizes cutting-edge technology to optimize chicken farming for both efficiency and animal welfare",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -57,9 +57,9 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdzEVnV.webp",
+	 "title": "X Checken 2023",
+	 "text": "Each chicken is equipped with a small, lightweight IoT (Internet of Things) device. These devices monitor the health, activity, and location of each chicken in real-time.",
 	 "text_two": "xxxx",
 
 	 "isLocked": true,
@@ -67,9 +67,9 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdzE1uj.webp",
+	 "title": "X Checken 2023",
+	 "text": "The Smart Coop System incorporates automated feeding mechanisms based on individual dietary needs. The system analyzes data from the IoT devices to adjust feeding schedules and portions, ensuring optimal nutrition for each chicken.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -77,9 +77,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdzElyb.webp",
+	 "title": "X Checken 2023",
+	 "text": "The coop is equipped with sensors and climate control systems that automatically adjust temperature, humidity, and ventilation to create the most comfortable environment for the chickens. This not only enhances their well-being but also improves egg production.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -87,9 +87,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdzEEwx.webp",
+	 "title": "X Checken 2023",
+	 "text": "The system collects and analyzes large volumes of data regarding chicken behavior, health trends, and environmental conditions. Farmers can access a user-friendly dashboard to gain insights into their flock's overall health and performance.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -97,9 +97,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdzEGZQ.webp",
+	 "title": "X Checken 2023",
+	 "text": "Sensors and machine learning algorithms are utilized for predictive maintenance of equipment. This minimizes downtime and ensures that the Smart Coop System operates at peak efficiency.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
