@@ -43,7 +43,7 @@
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
-  
+  "onesignal_id": "8fbdbfea-678a-46e2-9eea-79bb28026813",
 
   "guides": [
 	{
